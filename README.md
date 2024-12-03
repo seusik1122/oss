@@ -30,3 +30,9 @@
         git commit -m "[메시지]"
         git push origin [브랜치명]
         ```
+
+- **브랜치 관리**:
+    - 새로운 브랜치를 만들고 체크아웃 하기.
+        ```bash
+        git checkout -b [브랜치명]
+        ```
