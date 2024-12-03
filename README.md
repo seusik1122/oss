@@ -11,6 +11,21 @@
 ## 📚 목차
 
 1. [기본 명령어 과제](#기본-명령어-과제)
+2. [고급 명령어 과제](#고급-명령어-과제)
+3. [유용한 팁과 트릭](#유용한-팁과-트릭)
+4. [참고 자료](#참고-자료)
+
+---
+
+## 🖥️ 오픈소스소프트웨어 교수님 페이지
+
+[교수님 페이지](https://github.com/ai7dnn/2024-OSS)
+
+---
+
+## 💡 Gitbash 유용한 명령어
+
+[유용한 명령어](https://gorokke.tistory.com/22)
 
 ---
 
@@ -36,3 +51,25 @@
         ```bash
         git checkout -b [브랜치명]
         ```
+
+- **커밋 기록 보기**:
+    - 최근 커밋 내역을 간단히 조회하기.
+        ```bash
+        git log --oneline
+        ```
+
+---
+
+## 📖 참고 자료
+
+- [Git 공식 문서](https://git-scm.com/doc)
+- [Git Bash 사용법](https://gitforwindows.org/)
+
+---
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white"/>
+</div>
+
+---
+
