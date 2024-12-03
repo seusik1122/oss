@@ -22,3 +22,11 @@
         git config alias.[별명] '원하는 명령어'
         git config alias.history 'log --pretty=oneline'
         ```
+
+- **커밋과 푸시를 한 번에**:
+    - 특정 파일을 스테이징과 동시에 커밋 후 푸시하기.
+        ```bash
+        git add [파일명]
+        git commit -m "[메시지]"
+        git push origin [브랜치명]
+        ```
